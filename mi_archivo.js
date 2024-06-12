@@ -1,4 +1,4 @@
 console.log('Hola Mundo')
 console.log("Yoilin Mejia Chaves")
-//ANOTHER PRUEBA
+//OTRA PRUEBA
 //este es un ejercicio de uso de git y github
